@@ -3,6 +3,8 @@ public class A{
 	private String address;
 	private String sex;
 	private String phone;
+	
+	private String aaaa;
 
 	
 }
