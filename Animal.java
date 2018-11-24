@@ -5,6 +5,9 @@ public class A{
 	private String phone;
 	
 	private String aaaa;
+	
+	private String bbbb;
+	
 
 	
 }
